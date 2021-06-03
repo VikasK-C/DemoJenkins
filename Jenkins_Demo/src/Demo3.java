@@ -8,5 +8,6 @@ public class Demo3 {
 	{
 
 		System.out.println("test3");
+		System.out.println("test3");
 	}
 }
